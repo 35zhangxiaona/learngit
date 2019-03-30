@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 for happyfor happy so 
 remember fighting!
 Creating a new branch is quick AND simple.
+create to a new branch
